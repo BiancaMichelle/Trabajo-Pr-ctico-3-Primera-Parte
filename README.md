@@ -91,6 +91,10 @@ Debes desarrollar un sistema que gestione el proceso de fabricación de diferent
 ###### Diagrama de clases sistema de gestion de archivos y directorios
 ![DiagramaDeClases_Musica](https://i.imgur.com/htKIfaG.jpeg)
 
+El diagrama justifica el uso del patrón Adapter para resolver la incompatibilidad entre la interfaz del sistema (MusicPlayer) y el servicio de terceros (ThirdPartyAudioPlayer). En lugar de modificar el código del servicio externo, se utiliza la clase AudioPlayerAdapter para convertir las llamadas del formato esperado por MusicPlayer al formato requerido por ThirdPartyAudioPlayer.
+
+El patrón permite que el sistema sea flexible y mantenible, ya que si en el futuro se cambia el servicio externo, solo sería necesario modificar el adaptador, sin cambiar la aplicación principal ni la interfaz MusicPlayer.
+
 #### Ejercicio 2: Patrón Composite
 ###### Diagrama de clases sistema de gestion de archivos y directorios
 ![DiagramaDeClases_GestionArchivos](https://i.imgur.com/Fe4TNSG.png)
