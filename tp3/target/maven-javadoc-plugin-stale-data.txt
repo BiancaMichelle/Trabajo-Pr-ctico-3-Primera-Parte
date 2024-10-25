@@ -1,0 +1,54 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/Bianca/Desktop/xd/tp3/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Bianca/Desktop/xd/tp3/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'tp3 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/Bianca/Desktop/xd/tp3/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'tp3 1.0-SNAPSHOT API'
+com.example
+com.example.modelo
+'C:/Users/Bianca/Desktop/xd/tp3/src/main/java/com/example/Cliente.java'
+'C:/Users/Bianca/Desktop/xd/tp3/src/main/java/com/example/modelo/Directory.java'
+'C:/Users/Bianca/Desktop/xd/tp3/src/main/java/com/example/modelo/File.java'
+'C:/Users/Bianca/Desktop/xd/tp3/src/main/java/com/example/modelo/FileSystemComponent.java'
+C:\Users\Bianca\Desktop\xd\tp3\src\main\java = 1729894718147
+C:\Users\Bianca\Desktop\xd\tp3\target\site\apidocs\allclasses-index.html = 1729895089652
+C:\Users\Bianca\Desktop\xd\tp3\target\site\apidocs\allpackages-index.html = 1729895089658
+C:\Users\Bianca\Desktop\xd\tp3\target\site\apidocs\copy.svg = 1729895089764
+C:\Users\Bianca\Desktop\xd\tp3\target\site\apidocs\element-list = 1729895089346
+C:\Users\Bianca\Desktop\xd\tp3\target\site\apidocs\help-doc.html = 1729895089736
+C:\Users\Bianca\Desktop\xd\tp3\target\site\apidocs\index-all.html = 1729895089712
+C:\Users\Bianca\Desktop\xd\tp3\target\site\apidocs\index.html = 1729895089621
+C:\Users\Bianca\Desktop\xd\tp3\target\site\apidocs\link.svg = 1729895089777
+C:\Users\Bianca\Desktop\xd\tp3\target\site\apidocs\member-search-index.js = 1729895089669
+C:\Users\Bianca\Desktop\xd\tp3\target\site\apidocs\module-search-index.js = 1729895089661
+C:\Users\Bianca\Desktop\xd\tp3\target\site\apidocs\overview-summary.html = 1729895089722
+C:\Users\Bianca\Desktop\xd\tp3\target\site\apidocs\overview-tree.html = 1729895089621
+C:\Users\Bianca\Desktop\xd\tp3\target\site\apidocs\package-search-index.js = 1729895089669
+C:\Users\Bianca\Desktop\xd\tp3\target\site\apidocs\script.js = 1729895089762
+C:\Users\Bianca\Desktop\xd\tp3\target\site\apidocs\search-page.js = 1729895089827
+C:\Users\Bianca\Desktop\xd\tp3\target\site\apidocs\search.html = 1729895089716
+C:\Users\Bianca\Desktop\xd\tp3\target\site\apidocs\search.js = 1729895089803
+C:\Users\Bianca\Desktop\xd\tp3\target\site\apidocs\stylesheet.css = 1729895089756
+C:\Users\Bianca\Desktop\xd\tp3\target\site\apidocs\tag-search-index.js = 1729895089677
+C:\Users\Bianca\Desktop\xd\tp3\target\site\apidocs\type-search-index.js = 1729895089669
